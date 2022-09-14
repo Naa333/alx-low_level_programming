@@ -7,7 +7,7 @@
  *
  * @num2: The second integer to be added.
  *
- * return: The result of the addition.
+ * Return: The result of the addition.
  */
 int add(int num1, int num2)
 {
