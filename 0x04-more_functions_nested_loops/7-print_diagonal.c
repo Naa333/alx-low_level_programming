@@ -1,8 +1,5 @@
 #include <stdio.h>
-
 #include "main.h"
-
-
 
 /**
  * print_diagonal - prints a diagonal
@@ -11,8 +8,6 @@
  * Return: returns nothing
  *
  */
-
-
 
 void print_diagonal(int n)
 {
@@ -33,9 +28,8 @@ void print_diagonal(int n)
 
 		putchar('\\');
 		if (len == (n - 1))
-																					{
-																					continue;
-																					}
+		{																			continue;
+		}
 																					putchar('\n');
 
 																					}
