@@ -13,7 +13,7 @@ int main(void)
 	char b[] = "Buzz";
 	char c[] = "FizzBuzz";
 
-	for (i = 0; i <= 100; i++)
+	for (i = 1; i <= 100; i++)
 	{
 		if (i == 100)
 			printf("%s", b);
