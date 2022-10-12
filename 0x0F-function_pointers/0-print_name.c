@@ -3,7 +3,7 @@
 
 /**
  * print_name - literally
- * name: name
+ * @name: name
  * @f: pointer
  */
 
